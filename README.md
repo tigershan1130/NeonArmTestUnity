@@ -19,3 +19,7 @@ References:
 1. “3D Collision Detection - Game Development: MDN.” Game Development | MDN, https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_collision_detection. 
 2. Over17. “Over17/Neonintrinsics-Unity.” GitHub, https://github.com/Over17/NeonIntrinsics-Unity. 
 3. Documentation – Arm Developer, https://developer.arm.com/documentation/102556/0100. 
+4. https://codeantenna.com/a/6FCoR2kO09
+5. https://www.youtube.com/watch?v=BpwvXkoFcp8
+6. Documentation – Arm Developer, https://developer.arm.com/documentation/den0018/a/NEON-Intrinsics/Using-NEON-intrinsics
+7. https://docs.unity3d.com/Packages/com.unity.burst@1.5/manual/index.html
